@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809808896153",
+    "firebase_url": "https://aid-project-af0a9-default-rtdb.firebaseio.com",
+    "project_id": "aid-project-af0a9",
+    "storage_bucket": "aid-project-af0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809808896153:android:185428293b5a6caaeb9808",
+        "android_client_info": {
+          "package_name": "com.indiworks.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809808896153-73bjvscgjv6bekv4s3ndaokb8u281f1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNI49AmyIzG5I3ON7J1OSS1uTZNhu-G20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809808896153-73bjvscgjv6bekv4s3ndaokb8u281f1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809808896153-kajt7k50rstqqdao3sn0r2t43i718pao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
